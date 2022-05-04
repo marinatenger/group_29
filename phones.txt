@@ -1,4 +1,5 @@
 1) iPhone 11
 2) iPhone 12
-
 3) Xiaomi P20
+4) Samsung s22
+>>>>>>> something_pay
